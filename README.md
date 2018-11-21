@@ -1,5 +1,5 @@
 # Pycharm-Facial-Recognition
-A simple program that recognizes a face from set of faces after being trained on a sample of faces
+A simple program that recognizes a face  after being trained on a sample of faces
 
                                    INSTRUCTIONS FOR EXECUTING THE FILE
                                    
